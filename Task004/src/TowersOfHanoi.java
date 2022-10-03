@@ -10,7 +10,7 @@ public class TowersOfHanoi {
     }
 
     public static void main(String[] args) {
-        int discs = 5;
-        solve(discs, "A", "B", "C");
+        int discs = 3;
+        solve(discs, "1", "2", "3");
     }
 }

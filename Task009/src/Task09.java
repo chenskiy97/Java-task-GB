@@ -35,7 +35,7 @@ public class Task09 {
     }
 
     public static void main(String[] args) {
-        int[] array = {12, 0, 1, 2, 8, 11, -6, 6};
+        int[] array = {12, 0, 1, 2, 8, 11, -6, 6, 3};
         heapSort(array);
         String str = Arrays.toString(array);
         System.out.println(str);
